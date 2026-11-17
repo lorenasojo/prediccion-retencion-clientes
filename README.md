@@ -82,6 +82,6 @@ La segmentación permite orientar las estrategias de marketing según el comport
 
 ## 7. Evidencia del proyecto
 
-- Notebook de análisis: notebook (9).ipynb
+- Notebook de análisis: https://github.com/lorenasojo/prediccion-retencion-clientes/blob/main/Notebook.ipynb
 - Repositorio de GitHub: https://github.com/lorenasojo/prediccion-retencion-clientes
 
