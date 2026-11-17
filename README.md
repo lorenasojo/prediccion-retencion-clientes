@@ -82,6 +82,6 @@ La segmentación permite orientar las estrategias de marketing según el comport
 
 ## 7. Evidencia del proyecto
 
-- Notebook de análisis: [Agregar enlace al archivo del repositorio]
+- Notebook de análisis: notebook (9).ipynb
 - Repositorio de GitHub: [Agregar enlace]
 
